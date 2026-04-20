@@ -5,32 +5,33 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Journal Articles &amp; Conference Papers</h2>
 
-{% include base_path %}
+<ul>
+  <li><strong>Liu, L.</strong>, Wu Yiran, M. A. Hariansyah, Rhea P. Liem*. "Bilevel Strategy for On-Design eVTOL Sizing and Off-Design Structural Weight Optimization" Manuscript for <em>ICAS 2026</em> <strong>(Accepted)</strong>.</li>
+  <li><strong>Liu, L.</strong>, Reyner, C., and Liem, R. P. "Co-design of Aircraft Configuration and Flight Profile for Match-range Operation." <em>Aeronautics and Astronautics</em> (2025). <strong>(Accepted)</strong>.</li>
+  <li><strong>Liu, L.</strong>, Reyner, C., and Liem, R. P. "Operation-based Flight Profile Optimization with Continuous Cruise Climb Operations." <em>AIAA Aviation 2025 Forum</em>. 2025.</li>
+  <li>Reyner, C., <strong>Liu, L.</strong>, and Liem, R. P. "Integrating Wind-Aware Optimal Turning Maneuver Strategy into Operations for Fixed-Wing Unmanned Aircraft Vehicle (UAV)." <em>AIAA Aviation 2025 Forum</em>. 2025.</li>
+  <li><strong>Liu, L.</strong>, Kim, D., Reyner, C., and Liem, R. P. "Data-Driven Multi-Range Mission-Based Overall Aircraft Conceptual Design Optimization," <em>Proceedings of the 34th Congress of ICAS</em>, Florence, Italy, 2024.</li>
+  <li><strong>Liu, L.</strong> "A Deep Neural Network-Based Target Recognition Algorithm for Robot Scenes." <em>Scientific Programming</em> 2022 (2022): 1-14.</li>
+  <li><strong>Liu, L.</strong>, Gao Wentao "Research on several major diseases based on machine learning models", <em>2022 5th International Conference on Advanced Electronic Materials, Computers and Software Engineering (AEMCSE)</em>. IEEE, 2022.</li>
+  <li><strong>Liu, L.</strong> "Discussion on the Integration of Mechatronics Engineering and Artificial Intelligence Technology." <em>Advances in Computer, Signals and Systems</em> 6.1 (2022): 29-33.</li>
+</ul>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Manuscripts in preparation/process</h2>
+
+<ul>
+  <li>Qiyu Yan, Liu Lijing, Li Zhicheng. "AutoOR: An LLM-Enabled Automated Modeling Workflow for General Operations Research Problems" Manuscript for <em>IJCAI</em> <strong>(submitted)</strong>.</li>
+  <li><strong>Liu Lijing</strong>, James M shihua, Qiyu Yan, Rhea P. Liem*. "LLM-enhanced Dynamic Fleet Planning with Hierarchical Multi-agent Reinforcement Learning Framework" Manuscript for <em>IJCAI</em> <strong>(submitted)</strong>.</li>
+  <li><strong>Liu Lijing</strong>, Christian Reyner, Dajung Kim, Go Nam Lui, Rhea P. Liem*. "Operation-aware Aircraft Conceptual Design Optimization Framework for Sustainable Aviation" Manuscript under preparation.</li>
+  <li><strong>Liu Lijing</strong>, James M shihua, Christian Reyner, Rhea P. Liem*. "Operation-Driven Airline Fleet Sizing with Optimal Assignments: A Dynamic Strategy for Short-Term Aircraft Leasing" Manuscript under preparation.</li>
+</ul>
+
+<h2>Patent</h2>
+
+<ul>
+  <li><strong>Liu Lijing</strong>, et al. (2025). Application Startup Method and Device. CN202510442458.0.</li>
+</ul>
 
 
 
