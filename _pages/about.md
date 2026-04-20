@@ -23,7 +23,7 @@ Selected Projects
 
 * **Operation-driven fleet sizing and allocation optimization**: developing hierarchical multi-agent reinforcement learning methods for short-term aircraft leasing, fleet planning, and task allocation.
 * **Operation-aware aircraft conceptual design optimization**: building data-driven optimization frameworks that connect aircraft design choices with airline operational efficiency and sustainability.
-* **Adaptive computational resource scheduling**: studying dependency decomposition and optimization methods for multi-core resource scheduling in collaboration with Huawei Hong Kong Research Center.
+* **AutoOR: LLM-assisted operations research workflow**: building an orchestration framework that turns natural-language optimization problems into structured models, routes them to appropriate solvers (LP/MILP, TSP/VRP, scheduling, NLP), and returns business-readable explanations.
 
 Internship Experience
 ======
