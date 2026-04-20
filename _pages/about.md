@@ -39,4 +39,6 @@ Experience Highlights
 * **Research Intern, Huawei 2012 Lab - Hong Kong Research Center**: designed and implemented cold-start acceleration and dynamic preloading modules; contributed to a patent as first inventor.
 * **Scientific Software Developer, iFlytek StarAI Tech**: developed task-management system features with Python, Java, JavaScript, and database integration.
 
+I am interested in research collaborations at the intersection of aerospace engineering, optimization, and machine learning. Please feel free to contact me by email.
+
 You can find a more complete overview on the [CV page](/cv/) or download the full PDF version [here](/files/Lijing-LIU-CV.pdf).
