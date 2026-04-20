@@ -11,7 +11,7 @@ redirect_from:
 
 ### Hi there, I'm Lijing LIU 👋
 
-I am a Ph.D. candidate in Mechanical Engineering at **[The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)**, supervised by **[Prof. Rhea P. Liem](https://www.mae.ust.hk/en/people/faculty/detail/rhliem)**. My research lies at the intersection of aerospace engineering, operations research, and artificial intelligence.
+I am a Ph.D. candidate in Mechanical Engineering at **[The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)**, supervised by **[Prof. Rhea P. Liem](https://profiles.imperial.ac.uk/r.liem)**. My research lies at the intersection of civil aviation, operations research, and artificial intelligence.
 
 Previously, I received my M.Sc. in Mechanical Engineering from HKUST and my B.Eng. from Wuhan University of Technology.
 
@@ -35,7 +35,7 @@ I am focused on applying data-driven and AI methods to aviation and operations r
 * **Operation-aware aircraft conceptual design optimization**
   Building data-driven optimization frameworks that connect aircraft design choices with airline operational efficiency and sustainability.
 
-* **[AutoOR](https://github.com/LijingJim/AutoOR): LLM-assisted OR workflow**
+* **[AutoOR](https://github.com/chick26/AutoOR): LLM-assisted OR workflow**
   An orchestration framework that turns natural-language optimization problems into structured models, routes them to appropriate solvers (LP/MILP, TSP/VRP, scheduling, NLP), and returns business-readable explanations.
 
 ---
@@ -57,12 +57,12 @@ Beyond research, I have hands-on AI and software engineering experience:
 * **ML/AI Foundations:** Regression, Classification, Deep Learning, Reinforcement Learning (PPO), Surrogate Modeling
 * **Frameworks & Tools:** TensorFlow, LangChain, PuLP, OR-Tools, ANSYS
 * **Development:** Python, C/C++, Java, JavaScript, SQL, Git, Linux
-* **AI Projects:** [AutoOR](https://github.com/LijingJim/AutoOR) — LLM-assisted operations research workflow
+* **AI Projects:** [AutoOR](https://github.com/chick26/AutoOR) — LLM-assisted operations research workflow
 
 ---
 
 ### 📬 Contact
 
-I am open to research collaborations in aerospace engineering, optimization, and AI. Feel free to reach out via email.
+I am open to research collaborations in civil aviation, optimization, and AI. Feel free to reach out via email.
 
 📄 [CV](/cv/) &nbsp;·&nbsp; 📚 [Publications](/publications/) &nbsp;·&nbsp; ⬇️ [Download PDF CV](/files/Lijing-LIU-CV.pdf)
