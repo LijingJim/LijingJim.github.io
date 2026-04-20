@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Mechanical Engineering at **[The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)**, supervised by **[Prof. Rhea P. Liem](https://profiles.imperial.ac.uk/r.liem)**. My research lies at the intersection of civil aviation, operations research, and artificial intelligence.
+I am a Ph.D. candidate in Mechanical Engineering at **[The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)**, supervised by **[Prof. Rhea P. Liem](https://profiles.imperial.ac.uk/r.liem)**. My research background spans Multidisciplinary Design Optimization (MDO) in the aeronautical domain and Operations Research for airline industry applications.
 
-Previously, I received my M.Sc. in Mechanical Engineering from HKUST and my B.Eng. from Wuhan University of Technology.
+I have extensive hands-on experience in developing and implementing advanced algorithms across multiple projects, spanning Machine Learning, Deep Learning, and Reinforcement Learning, with proficiency in modern frameworks including TensorFlow, PyTorch, and LangChain. I am passionate about bridging theoretical research with practical engineering solutions — translating complex optimization problems into deployable code and scalable systems, and leveraging cutting-edge AI/ML techniques to solve challenging real-world problems in aviation and beyond.
 
 ---
 
