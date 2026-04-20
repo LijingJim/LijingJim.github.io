@@ -17,9 +17,9 @@ I have extensive hands-on experience in developing and implementing advanced alg
 
 I am focused on applying data-driven and AI methods to aviation and operations research. My core interests include:
 
-* **Data-Driven Aircraft Design Optimization** — multidisciplinary design, mission analysis, and surrogate modeling
-* **Airline Operations & Fleet Planning** — operation-aware design, fleet sizing, and scheduling optimization
-* **LLM-Assisted Operations Research** — intelligent workflow orchestration and optimization agents
+* **Data-Driven Aircraft Design Optimization** — multidisciplinary design optimization (MDO), data-enhanced mission analysis, and performance surrogate modeling
+* **Airline Operations & Fleet Planning** — dynamic fleet sizing, mission assignments optimization, and economic analysis of operational decisions
+* **LLM-Assisted Operations Research** — intelligent workflow orchestration and optimization agents for general end-to-end problem-solving in operations research contexts
 
 ---
 
