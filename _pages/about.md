@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Mechanical Engineering at **The Hong Kong University of Science and Technology (HKUST)**. My current research focuses on **operation-aware aircraft conceptual design**, **airline fleet planning**, and **learning-based optimization** for sustainable aviation. I work with **Prof. Rhea P. Liem** and collaborate across aerospace design, operations research, and machine learning.
+I am a Ph.D. candidate in Mechanical Engineering at **The Hong Kong University of Science and Technology (HKUST)**. My current research focuses on **operation-aware aircraft conceptual design**, **airline fleet planning**, and **learning-based optimization** for sustainable aviation. I work with **Prof. Rhea P. Liem** and collaborate across aerospace design, operations research, and machine learning.
 
 Before starting my Ph.D., I completed an M.Sc. in Mechanical Engineering at HKUST and a B.Eng. in Mechanical Engineering at Wuhan University of Technology. My recent projects span reinforcement-learning-based fleet sizing and allocation, data-driven aircraft design optimization, and adaptive computational resource scheduling in collaboration with Huawei Hong Kong Research Center.
 

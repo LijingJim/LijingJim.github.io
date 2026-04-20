@@ -13,11 +13,11 @@ Download
 
 Education
 ======
-* **The Hong Kong University of Science and Technology** | *Ph.D. in Mechanical Engineering*, 09/2022-Present
-  * Supervisor: Prof. Rhea P. Liem, Imperial College London, Department of Aeronautics
-* **The Hong Kong University of Science and Technology** | *M.Sc. in Mechanical Engineering*, 09/2021-06/2022
-  * Supervisor: Prof. Zhigang Li, The Hong Kong University of Science and Technology, MAE Department
-* **Wuhan University of Technology** | *B.Eng. in Mechanical Engineering*, 09/2015-06/2019
+* **The Hong Kong University of Science and Technology**, *Ph.D. in Mechanical Engineering*, 09/2022-Present  
+  <small>Supervisor: Prof. Rhea P. Liem, Imperial College London, Department of Aeronautics</small>
+* **The Hong Kong University of Science and Technology**, *M.Sc. in Mechanical Engineering*, 09/2021-06/2022  
+  <small>Supervisor: Prof. Zhigang Li, The Hong Kong University of Science and Technology, MAE Department</small>
+* **Wuhan University of Technology**, *B.Eng. in Mechanical Engineering*, 09/2015-06/2019
 
 Research Interests
 ======
