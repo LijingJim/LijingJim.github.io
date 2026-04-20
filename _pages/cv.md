@@ -53,13 +53,13 @@ Research Projects
   * Institution: School of Mechanical Engineering, Wuhan University of Technology
   * Developed a deep-learning-based object recognition approach and a prototype detection system using C++ MFC.
 
-Publications
+Publications and Patents
 ======
 * See the full list on the [Publications page](/publications/).
 
-Patent
-======
-* Liu Lijing et al. **Application Startup Method and Device.** CN202510442458.0, 2025.
+<!-- Patent -->
+<!-- ====== -->
+<!-- * Liu Lijing et al. **Application Startup Method and Device.** CN202510442458.0, 2025. -->
 
 Internship Experience
 ======
