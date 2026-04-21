@@ -71,9 +71,3 @@ Internship Experience
 * **Scientific Software Developer**, iFlytek StarAI Tech, Wuhan, 07/2020-12/2020
   * Designed system architecture and developed core task-management features with Python, Java, JavaScript, and database integration.
   * Coordinated with testing teams to resolve critical issues and deliver stable production features.
-
-Technical Skills
-======
-* **Programming:** Python, C/C++, Java, JavaScript, SQL
-* **Tools:** AutoOR, ANSYS, IntelliJ IDEA, QuTiP, MFC
-* **Frameworks:** TensorFlow, LangChain
