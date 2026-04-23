@@ -23,12 +23,12 @@ Research Projects
 ======
 
 **Operation-Aware Aircraft Conceptual Design Optimization**  
-*PhD Researcher* · HKUST × Imperial College London · 09/2022–Present  
+*Ph.D. Research* · HKUST × Imperial College London · 09/2022–Present  
 Developed a data-driven optimization framework integrating operational constraints into aircraft conceptual design; built surrogate models and multi-mission optimization pipelines for sustainable aviation.  
 [→ Details](/projects/#aircraft-design)
 
 **Operation-Driven Fleet Sizing and Allocation Optimization**  
-*PhD Researcher* · HKUST × Imperial College London · 09/2022–Present  
+*Ph.D. Researcher* · HKUST × Imperial College London · 09/2022–Present  
 Developed hierarchical multi-agent PPO reinforcement learning algorithms for fleet planning and dynamic task allocation; studied coupling between aircraft design and airline operational decisions.  
 [→ Details](/projects/#fleet-sizing)
 
